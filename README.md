@@ -1,5 +1,5 @@
 # LiDAR Distillation
-### [Paper](https://arxiv.org/abs/2109.01129) | [Model](https://drive.google.com/drive/folders/1X_w57Q_MIFlI3lzhRt7Z8C5X9tNS8cg-?usp=sharing)
+### [Paper](https://arxiv.org/abs/2203.14956) | [Model](https://cloud.tsinghua.edu.cn/d/8c4541693833471e8b13/)
 <br/>
 
 > LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection  
