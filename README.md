@@ -78,10 +78,10 @@ Our code is heavily based on [OpenPCDet v0.2](https://github.com/open-mmlab/Open
 If you find this project useful in your research, please consider cite:
 ```
 @article{wei2022lidar,
-    title={LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection},
-    author={Wei, Yi and Wei, Zibu and Rao, Yongming and Lu, Jiwen and Zhou, Jie},
-    journal={arXiv preprint arXiv:2022.6980},
-    year={2022}
+  title={LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection},
+  author={Wei, Yi and Wei, Zibu and Rao, Yongming and Li, Jiaxin and Zhou, Jie and Lu, Jiwen},
+  journal={arXiv preprint arXiv:2203.14956},
+  year={2022}
 }
 ```
 ```
