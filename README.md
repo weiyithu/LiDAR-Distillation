@@ -3,7 +3,8 @@
 <br/>
 
 > LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection  
-> [Yi Wei](https://weiyithu.github.io/), Zibu Wei, [Yongming Rao](https://raoyongming.github.io/), [Jiaxin Li](https://www.jiaxinli.me), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1)  
+> [Yi Wei](https://weiyithu.github.io/), Zibu Wei, [Yongming Rao](https://raoyongming.github.io/), [Jiaxin Li](https://www.jiaxinli.me), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1) 
+> ECCV 2022
 
 <p align='center'>
 <img src="./docs/framework.png" width='80%'/>
