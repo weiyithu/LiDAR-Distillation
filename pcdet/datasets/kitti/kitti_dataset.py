@@ -505,7 +505,7 @@ def create_kitti_infos(dataset_cfg, class_names, data_path, save_path, workers=4
     dataset.set_split(train_split)
     dataset.create_groundtruth_database(train_filename, split=train_split)
 
-    os.system('mv {}/training/velodyne {}/training/modes/64'.format(str(save_path)))
+    os.system('mv {0}/training/velodyne {0}/training/modes/64'.format(str(save_path)))
     print('---------------Data preparation Done---------------')
 
 
