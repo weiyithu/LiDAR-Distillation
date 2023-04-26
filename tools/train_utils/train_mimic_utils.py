@@ -104,7 +104,7 @@ def train_one_epoch(model, model_teacher, optimizer, train_loader, model_func, l
             tb_dict_teacher, disp_dict_teacher, batch_teacher_new = model_teacher(batch_teacher)
 
 
-        batch['rois_mimic'] = batch_teacher_new['rois_mimic'].clone()
+        # batch['rois_mimic'] = batch_teacher_new['rois_mimic'].clone()
         temp, batch_new = model_func(model, batch)
         loss, tb_dict, disp_dict = temp
         loss_mimic = cal_mimic_loss(batch_teacher_new, batch_new, model.module.model_cfg.ROI_HEAD, mimic_mode)
